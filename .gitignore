@@ -4,3 +4,6 @@
 *.log
 *.out
 *.ipynb_checkpoints
+*.bcf
+*.xml
+auto
